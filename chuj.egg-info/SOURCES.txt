@@ -1,0 +1,7 @@
+setup.py
+biblbio/__init__.py
+chuj.egg-info/PKG-INFO
+chuj.egg-info/SOURCES.txt
+chuj.egg-info/dependency_links.txt
+chuj.egg-info/not-zip-safe
+chuj.egg-info/top_level.txt
